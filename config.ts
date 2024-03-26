@@ -1,7 +1,7 @@
 import { Config } from './src/lib/config.types';
 
 export const config: Config = {
-  themeColor: "#5789f6",
+  themeColor: "#FF3131",
   logoURL: "/images/logo.png",
   site: {
     url: "https://cartelz.xyz/",
