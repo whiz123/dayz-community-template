@@ -1,7 +1,7 @@
 import { Config } from './src/lib/config.types';
 
 export const config: Config = {
-  themeColor: "#FF3131",
+  themeColor: "#FF0000",
   logoURL: "/images/logo.png",
   site: {
     url: "https://cartelz.xyz/",
@@ -21,7 +21,7 @@ export const config: Config = {
   pages: {
     home: {
       title: "Home | Cartel Z",
-      description: "Welcome to the SKVAD Community! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
+      description: "Welcome to the Cartel Z! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
       sections: {
         network: {
           title: "Server Network",
