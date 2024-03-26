@@ -4,7 +4,7 @@ export const config: Config = {
   themeColor: "#5789f6",
   logoURL: "/images/logo.png",
   site: {
-    url: "https://www.skvad.eu/",
+    url: "https://cartelz.xyz/",
     title: "SKVAD Community",
     twitter: {
       site: "@site",
