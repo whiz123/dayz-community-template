@@ -5,7 +5,7 @@ export const config: Config = {
   logoURL: "/images/logo.png",
   site: {
     url: "https://cartelz.xyz/",
-    title: "SKVAD Community",
+    title: "Cartel Z",
     twitter: {
       site: "@site",
       creator: "@creator",
@@ -20,7 +20,7 @@ export const config: Config = {
   },
   pages: {
     home: {
-      title: "Home | SKVAD Community",
+      title: "Home | Cartel Z",
       description: "Welcome to the SKVAD Community! We are a DayZ community that is dedicated to providing the best experience for our players. Join us today!",
       sections: {
         network: {
