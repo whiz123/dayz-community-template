@@ -78,7 +78,7 @@ export const config: Config = {
     background: {
       color: 'rgb(51 65 85)',
       image: {
-        url: "/images/hero.jpg",
+        url: "/images/hero.png",
         alt: "Hero Image",
       },
     },
